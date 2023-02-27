@@ -4,8 +4,8 @@
         <div class="row">
           <div class="col-lg-4 col-md-12 col-12 align-content-center">
             <div class="about-img">
-              <img src="src/assets/img/java.jpg" class="img-fluid mt-5" />
-              <img src="src/assets/img/bootstrap.png" class="img-fluid mt-5" />
+              <img src="../../assets/img/java.jpg" class="img-fluid mt-5" />
+              <img src="../../assets/img/bootstrap.png" class="img-fluid mt-5" />
 
             </div>
           </div>
@@ -39,8 +39,8 @@
         <div class="row">
           <div class="col-lg-4 col-md-12 col-12 align-content-center">
             <div class="about-img">
-              <img src="src/assets/img/php.jpg" class="img-fluid mt-5" />
-              <img src="src/assets/img/funcion.png" class="img-fluid mt-5" />
+              <img src="../../assets/img/php.jpg" class="img-fluid mt-5" />
+              <img src="../../assets/img/funcion.png" class="img-fluid mt-5" />
 
             </div>
           </div>
@@ -69,8 +69,8 @@
         <div class="row">
           <div class="col-lg-4 col-md-12 col-12 align-content-center">
             <div class="about-img">
-              <img src="src/assets/img/Laravel.jpg" class="img-fluid mt-5" />
-              <img src="src/assets/img/ppp.jpg" class="img-fluid mt-5" />
+              <img src="../../assets/img/Laravel.jpg" class="img-fluid mt-5" />
+              <img src="../../assets/img/ppp.jpg" class="img-fluid mt-5" />
 
             </div>
           </div>

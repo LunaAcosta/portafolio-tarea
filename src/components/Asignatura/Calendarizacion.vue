@@ -15,7 +15,7 @@
               <div class="card text-light text-center bg-black pb-2">
                   <div class="card-body text-light">
                       <div class="img-area mb-4">
-                          <img src="src/assets/img/calen.jpg" class="img-fluid">
+                          <img src="../../assets/img/calen.jpg" class="img-fluid">
                       </div>
                   </div>
               </div>
