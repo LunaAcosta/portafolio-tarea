@@ -1,0 +1,112 @@
+.section-padding {
+  padding: 50px 0;
+}
+
+.section-padding-top {
+  padding-top: 100px;
+}
+
+.texto-portada {
+  width: 100%;
+  position: absolute;
+  top: 20%;
+}
+
+.texto-portada h1 {
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+.texto-portada h3 {
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+.portada-img {
+  margin-top: 100px;
+}
+.imagen-portada {
+  background-image: url(./img/portada.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+
+.imagen-portada:before {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.navbar-nav a {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navbar-dark .navbar-brand {
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.w-100 {
+  height: 100vh;
+}
+
+.navbar-toggler {
+  padding: 1px 5px;
+  font-size: 18px;
+  line-height: 0.3;
+}
+
+.services .card-body {
+  font-size: 50px;
+}
+
+.team .card-body i {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .w-100 {
+    height: 70vh;
+  }
+  .about-text {
+    padding-top: 50px;
+  }
+  .card {
+    margin-bottom: 30px;
+  }
+
+  .section-padding {
+    padding: 50px;
+  }
+}
+
+@media (max-width: 1215px) {
+  .texto-portada h1 {
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: 0;
+  }
+  .texto-portada h3 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin: 0;
+  }
+}
