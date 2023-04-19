@@ -11,16 +11,12 @@
                   <h4 class="text-uppercase">evaluaciones del computo I</h4>
                   <br>
                   <hr>
-
                   <h5 class="text-uppercase">Semana # 3</h5>
                   <h6>Laboratorio I - 70% </h6>
                   <hr>
-                  
                   <h5 class="text-uppercase">Semana # 4</h5>
                   <h6>Laboratorio II - 80% </h6>
                   <hr>
-                  
-
                   <h5 class="text-uppercase">Semana # 5</h5>
                   <h6>Entrega de repositorio GIT - Laboratorio I - 30% </h6>
                   <h6>Autoevaluacion - Laboratorio II - 10% </h6>
@@ -32,9 +28,7 @@
               </div>
             </div>
           </div>
-     
   </section>
-
   <section class="sumario" id="sumario">
       <div class="row">
             <!-- Card 1 -->
@@ -44,20 +38,15 @@
                   <h4 class="text-uppercase">evaluaciones del computo ii</h4>
                   <br>
                   <hr>
-
                   <h5 class="text-uppercase">Semana # 10</h5>
                   <h6>Laboratorio I - 70% </h6>
                   <hr>
-                  
                   <h5 class="text-uppercase">Semana # 11</h5>
                   <h6>Laboratorio II - 70% </h6>
                   <hr>
-
                   <h5 class="text-uppercase">Semana # 12</h5>
                   <h6>Autoevaluacion - Laboratorio II - 10% </h6>
                   <hr>
-                  
-
                   <h5 class="text-uppercase">Semana # 13</h5>
                   <h6>Entrega de repositorio GIT - Laboratorio I - 30% </h6>
                   <h6>Entrega de Portafolio de Estudiante GIT - Laboratorio I - 30% </h6>
@@ -66,10 +55,8 @@
               </div>
             </div>
        </div>
-
        <div class="img-sumario">
           <img src="../../assets/img/evalucacion.jpg">
        </div>
-     
    </section>
 </template>
