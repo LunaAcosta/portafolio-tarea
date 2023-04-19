@@ -252,7 +252,6 @@
         </div>
       </div>
     </div>
-
     <div class="container sumario-text">
       <div class="row">
         <div class="col-md-12">
@@ -260,7 +259,6 @@
             <h2 class="text-uppercase">Investigaciones Del Computo II</h2>
           </div>
         </div>
-
         <div class="col-lg-12 col-md-12 col-12 ps-lg-5 mt-md-5">
           <div class="about-text text-black">
             <h2 class="text-uppercase">Semana 7 Introducción al desarrollo con php.</h2>
@@ -268,16 +266,13 @@
             <div class="about-img">
               <img src="../../assets/img/phpComputoII.jpg" class="img-fluid" />
             </div>
-
             <br>
             <h4>¿ Qué es php ?</h4>
             <p>
               PHP es un lenguaje de código abierto muy popular, adecuado para desarrollo web
               y que puede ser incrustado en HTML. Es popular porque un gran número de páginas
               y portales web están creados con PHP.
-
             </p>
-
             <br>
             <h4>¿ Cómo funciona ?</h4>
             <p>
@@ -286,7 +281,6 @@
               o computador donde se almacena una página web. El servidor lee la página PHP (la interpreta).
               Envía al navegador del usuario un documento compilado en formato HTML
             </p>
-
             <br>
             <h4>¿Qué puede hacer?</h4>
             <p>
@@ -297,7 +291,6 @@
               Ejecución de scripts desde la línea de comandos sin la necesidad de un servidor Web o
               navegador. Escritura de aplicaciones gráficas clientes por medio de una extensión
               llamada PHP-GTK.
-
               <br>
               <br>
               Puede ser utilizado en cualquiera de los principales sistemas operativos del mercado.
@@ -305,7 +298,6 @@
               Soporta la mayoría de los servidores web de hoy en día.
               Incluyendo Apache, Microsoft Internet Information Server, Personal Web Server, y muchos
               otros.
-
             </p>
             <br>
             <h4>Ventajas de utilizar PHP</h4>
@@ -317,17 +309,12 @@
             </p>
             <br>
             <br>
-
-
-
             <h2 class="text-uppercase">Semana 8: Loops, Arrays, funciones</h2>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/phpfuncioones.jpg" class="img-fluid" />
             </div>
             <br>
-
             <h4>Bucles </h4>
             <p>
               Un bucle en PHP se usa para ejecutar una declaración o un bloque de declaraciones, varias veces
@@ -343,7 +330,6 @@
               y el contador.
             </p>
             <br>
-
             <h4>WHILE</h4>
             <p>
               El ciclo while también es un ciclo de control de entrada como para los ciclos, es decir, primero
@@ -351,14 +337,12 @@
               bloque de instrucciones, y continúa ejecutándose como siempre y cuando la condición sea cierta.
             </p>
             <br>
-
             <h4>FOREACH</h4>
             <p>
               Este bucle se utiliza para iterar sobre matrices. Para cada contador de bucle, se asigna un elemento
               de matriz y el siguiente contador se desplaza al siguiente elemento.
             </p>
             <br>
-
             <h4>ARRAYS</h4>
             <p>
               Las matrices en PHP son un tipo de estructura de datos que nos permite almacenar múltiples
@@ -367,10 +351,7 @@
               elementos de tipos similares, a los que se puede acceder utilizando su índice o clave.
             </p>
             <br>
-
-
             <h2 class="text-uppercase">Semana 9: Programación Orientada a Objetos.</h2>
-
             <br>
             <div class="about-img">
               <img src="../../assets/img/poo.png" class="img-fluid" />
@@ -385,7 +366,6 @@
               de 1990. Actualmente son muchos los lenguajes de programación que soportan la orientación
               a objetos.
             </p>
-
             <br>
             <h4>Abstracción.</h4>
             <p>
@@ -398,16 +378,13 @@
               El encapsulamiento consiste en agrupar en una Clase las características(atributos)
               con un acceso privado y los comportamientos (métodos) con un acceso público.
             </p>
-
             <h4>Herencia</h4>
             <br>
             <p>
               Es una propiedad que permite crear clases a partir de otras ya existentes, obteniendo
               características (métodos y atributos) similares a los ya existentes.
             </p>
-
             <br>
-
             <h4>Polimorfismo</h4>
             <br>
             <p>
@@ -415,7 +392,6 @@
               mismo nombre; al llamarlos por ese nombre se utilizará el comportamiento
               correspondiente al objeto que se esté usando.
             </p>
-
             <br>
             <h4>Clase</h4>
             <br>
@@ -428,11 +404,9 @@
             <br>
             <h2 class="text-uppercase">Semana 10: Clases Abstractas e Interfaces. </h2>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/clase.jpg" class="img-fluid" />
             </div>
-
             <br>
             <h4>Clases Abstractas.</h4>
             <p>
@@ -449,7 +423,6 @@
               <li>Las clases abstractas están implementadas desde la versión 5.4.0.</li>
             </ul>
             </p>
-
             <br>
             <h4>Interfaces</h4>
             <p>
@@ -460,28 +433,21 @@
               Para implementar una interface desde una clase se utiliza la palabra reservada implements.
               Una clase puede implementar más de una interfaz si se desea.
             </p>
-
             <br>
             <br>
-
             <h2 class="text-uppercase">Semana 11: Introducción a Laravel.</h2>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/laravelComII.webp" class="img-fluid" />
             </div>
-
             <br>
             <h4>MVC</h4>
             <p>
               Modelo-Vista-Controlador (MVC) es un patrón arquitectónico que separa una aplicación en
               tres componentes lógicos principales Modelo, Vista y Controlador. De ahí la abreviatura MVC. <br>
-
               Cada componente de la arquitectura está construido para manejar un aspecto de desarrollo
               específico de una aplicación. MVC separa la lógica empresarial y la capa de presentación entre sí.
-
             </p>
-
             <br>
             <h4>HTTP</h4>
             <p>
@@ -490,24 +456,20 @@
               significa que las solicitudes son iniciadas por el destinatario, generalmente el navegador Web.
             </p>
             <br>
-
             <h4>¿ Que es laravel ?</h4>
             <p>
               Laravel es un Framework con una sintaxis elegante y expresiva. Un Framework proporciona
               una estructura y un punto de partida para crear aplicaciones.
-
               Laravel se esfuerza por proporcionar una experiencia de desarrollador increíble, al tiempo
               que proporciona funciones poderosas como la inyección de dependencias exhaustiva, una capa
               de abstracción de base de datos expresiva, colas y trabajos programados, pruebas de integración y
               unidad, y más.
             </p>
             <br>
-
             <h4>Servidores</h4>
             <p>
               Una de las grandes ventajas de Laravel es la cantidad de opciones que ofrece para crear entornos
               de desarrollo.
-
             </p>
           </div>
         </div>
