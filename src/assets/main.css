@@ -90,7 +90,7 @@ section {
   margin: 15px 0 30px;
 }
 
-.sumario-text p , ul {
+.sumario-text p, ul {
   color: var(--color-text-title);
   font-size: var(--font-text-items);
   line-height: 1.8;
