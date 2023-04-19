@@ -57,6 +57,7 @@
             <p>5. Trajando con Laravel/UI.</p>
             <p>6. Creacion de API REST con Laravel.</p>
             <p>7. Consumo de API REST.</p>
+            <br>
         </div>
   </section>
 </template>s
