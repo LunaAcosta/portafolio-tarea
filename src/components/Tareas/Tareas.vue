@@ -35,7 +35,6 @@
 </div>
      
 </section>
-
 <section>
   <h1 class="text-center">Tareas de Commputo II</h1>
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
