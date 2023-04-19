@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
-            <h2 class="text-uppercase">Apuntes </h2> <br>
+          <div class="section-header text-center text-white pb-5 m-5">
+            <h2 class="text-uppercase">Apuntes del Computo I </h2> <br>
             <h4 class="text-uppercase">Semana # 1 </h4>
           </div>
         </div>
@@ -40,7 +40,7 @@
       <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
+          <div class="section-header text-center text-white pb-5 m-5">
             <h4 class="text-uppercase">Semana # 2 </h4>
           </div>
         </div>
@@ -105,7 +105,7 @@
       <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
+          <div class="section-header text-center text-white pb-5 m-5">
             <h4 class="text-uppercase">Semana # 3 </h4>
           </div>
         </div>
@@ -154,7 +154,7 @@
         <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
+          <div class="section-header text-center text-white pb-5 m-5">
             <h4 class="text-uppercase">Semana # 4 </h4>
           </div>
         </div>
@@ -205,7 +205,7 @@
      <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
+          <div class="section-header text-center text-white pb-5 m-5">
             <h4 class="text-uppercase">Semana # 5</h4>
           </div>
         </div>

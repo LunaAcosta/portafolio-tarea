@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="section-header text-center text-black pb-5 m-5">
-            <h2 class="text-uppercase">Calendarizacion</h2>
+          <div class="section-header text-center  pb-5 m-5">
+            <h2 class="text-uppercase ">Calendarizacion</h2>
           </div>
         </div>
       </div>

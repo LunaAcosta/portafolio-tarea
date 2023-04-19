@@ -1,22 +1,20 @@
 <template>
-  <section>
-    <div class="imagen-portada vh-100"></div>
+    <!-- SECCION DE HOME -->
+    <section class="home">
+        <div class="home-text">
+            <div class="slide">
+                <span class="one">Bienvenidos</span>
+            </div>
+            <h1>UNIVERSIDAD GERADO BARRIOS</h1>
+            <h3>INGERIERIA EN SISTEMAS </h3>
+            <h3>Programacion Computacional IV</h3>
+           
+            <p>Presentado:</p>
+            <h3>Luna Acosta, Kevin Alexander</h3>
 
-    <div class="texto-portada text-center">
-      <div class="container portada">
-        <h1 class="text-uppercase text-white">UNIVERSIDAD GERADO BARRIOS</h1>
-        <h3 class="text-white">Facultad de Ciencia Y Tecnoligia</h3>
-        <h3 class="text-white">Ingenieria en Sistemas y Redes Informatica</h3>
-        <br />
-        <h3 class="text-white text-uppercase">asinatura:</h3>
-        <h3 class="text-white">Programacion Computacional IV</h3>
-        <br />
-        <h3 class="text-white text-uppercase">docente:</h3>
-        <h3 class="text-white">Ing Gessela Espinoza</h3>
-        <br />
-        <h3 class="text-white text-uppercase">Presentado por:</h3>
-        <h3 class="text-white">Luna Acosta, Kevin Alexander</h3>
-      </div>
-    </div>
-  </section>
+            <p>Docente:</p>
+            <h3>Gisela Espinosa</h3>
+        </div> 
+    </section>
+  
 </template>
