@@ -7,7 +7,6 @@
             <h2 class="text-uppercase">Investigaciones Del Computo I</h2>
           </div>
         </div>
-
         <div class="col-lg-12 col-md-12 col-12 ps-lg-5 mt-md-5">
           <div class="about-text text-black">
             <h2 class="text-uppercase">Semana 1: Introducción a JavaScript</h2>
@@ -15,7 +14,6 @@
             <div class="about-img">
               <img src="../../assets/img/queJS.jpg" class="img-fluid" />
             </div>
-
             <br>
             <h4>¿Qué es JavaScript?</h4>
             <p>
@@ -25,14 +23,12 @@
               Los desarrolladores a partir de la evolución del lenguaje, definieron bibliotecas, marcos y prácticas
               de programación y así iniciaron a utilizarlo fuera de los navegadores.
             </p>
-
             <br>
             <h4>Funcionamiento JavaScript</h4>
             <p>
               En este lenguaje el código es interpretado, básicamente se traduce a código de lenguaje de
               maquina mediante un motor de JavaScript (motor V8).
             </p>
-
             <br>
             <h4>JavaScript puede ser utilizado tanto del lado del cliente como del lado del servidor.</h4>
             <p>
@@ -49,16 +45,12 @@
             </p>
             <br>
             <br>
-
-
             <h2 class="text-uppercase">Semana 2: Bootstrap, VueJS</h2>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/queB.png" class="img-fluid" />
             </div>
             <br>
-
             <h4>¿Qué es Bootstrap?</h4>
             <p>
               Es un marco de desarrollo web que permite y ayuda a los desarrolladores a crear interfaces web.
@@ -76,17 +68,13 @@
               elementos, permite elementos multimedia que funcionan como bloques.
             </p>
             <br>
-
-
             <h4>¿Qué es VueJS? </h4>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/vue.png" class="img-fluid" />
             </div>
             <br>
             <p>
-
               Marco progresivo que permite construir interfases de usuario. La biblioteca principal se centra
               solo en la capa de vista y es fácil de recoger e integrar con otras bibliotecas o proyectos existentes.
               Es capaz de impulsar aplicaciones sofisticadas de una sola página cuando se usa en combinación
@@ -96,7 +84,6 @@
               pueden crear todas las vistas de una página web, hacerse dinámicas, así mismo se pueden
               conectar a un servidor para tener datos dinámicos de una BD.
             </p>
-
             <h4>Características Vue.JS </h4>
             <p>
             <ul>
@@ -120,10 +107,8 @@
               <li> vue init simple</li>
             </ul>
             </p>
-
             <br>
             <br>
-
             <h2 class="text-uppercase">Semana 3: Rendering declarativo, Directivas personalizadas, Representación de
               lista.</h2>
             <br>
@@ -134,7 +119,6 @@
             <h4>Rendering declarativo</h4>
             <p>
               Es una opción propuesta pro VueJS para interactuar con el DOM.
-
             <ul>
               <li>Vista: HTML</li>
               <li>Estado: Datos JS</li>
@@ -147,7 +131,6 @@
               Estas son atributos especiales de Vue que se colocan en las etiquetas HTML y están prefijados por
               v-.
             </p>
-
             <h4>Las directivas están formadas por:</h4>
             <p>
             <ul>
@@ -157,17 +140,14 @@
               <li>Valor: se requiere establecer un valor.</li>
             </ul>
             </p>
-
             <h4>Tipos de directivas:</h4>
             <p>
               Las directivas personalizadas proporcionan un mecanismo para asignar cambios de datos a un
               comportamiento arbitrario de DOM.
             </p>
             <br>
-
             <h2 class="text-uppercase">Semana 4: Eventos, Manejadores de eventos, Modificadores de eventos, Clases y
               estilos entiempo real.</h2>
-
             <br>
             <div class="about-img">
               <img src="../../assets/img/even.png" class="img-fluid" />
@@ -179,7 +159,6 @@
               acción que realiza un usuario ante la cual puede realizarse algún proceso, estos se capturan
               mediante los manejadores de eventos.
             </p>
-
             <br>
             <h4>Manejadores de eventos en Vue.JS</h4>
             <p>
@@ -190,7 +169,6 @@
             <h4>Modificadores de teclas</h4>
             <p>
               Se utilizan alias para las claves más utilizadas.
-
             <ul>
               <li>.enter</li>
               <li>.delete</li>
@@ -202,28 +180,22 @@
               <li>.right</li>
             </ul>
             </p>
-
             <h4>Clases y estilos reactivos</h4>
             <p>
               Binding:class <br>
               Usando: class se puede definir clases al igual que con el atributo class pero aquí se usa comillas
               simples dentro de las comillas dobles. <br>
               <br>
-
               Binding: style <br>
               Usando: style se puede cambiar el estilo de algún elemento HTML en tiempo de ejecución. <br>
             </p>
             <br>
-
-
             <h2 class="text-uppercase">Semana 5: Sistema de Componentes, Introducción al sistema de Componentes, Crear
               Componentes Custom.</h2>
             <br>
-
             <div class="about-img">
               <img src="../../assets/img/com.jpg" class="img-fluid" />
             </div>
-
             <br>
             <h4>Componentes</h4>
             <p>
@@ -233,14 +205,12 @@
               <br>
               Sintaxis para creación de componentes: Vue.component(“name”, {options})
             </p>
-
             <br>
             <h4>Registro Global de componentes</h4>
             <p>
               Se realiza al llamar al método component de Vue. Que un componente se registre de forma global
               significa que estará disponible en cualquier componente de Vue no importa cuán anidado esté.
             </p>
-
             <br>
             <h4>¿Comunicación entre Componentes: propiedades y eventos? <br>
               Envío de datos entre componentes</h4>
